@@ -7,6 +7,79 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.nav-height {
+  height: 50px;
+  color: #fff;
+}
+
+.light {
+  height: 40px;
+  background-color: #2b2b2b;
+  width: 50px;
+  border-radius: 5px;
+}
+.card1 {
+  background-color: #1f1f1f;
+  height: 100px;
+  border-radius: 10px;
+  /* margin-left: 50px; */
+}
+.Add {
+  background-color: #5324ff;
+  border-radius: 25px;
+  width: 100px;
+  height: 40px;
+}
+.main-height {
+  height: 190px;
+  background-color: #1f1f1f;
+  border-radius: 20px;
+}
+.tab {
+  background-color: #ffffff33;
+  color: white;
+  border-radius: 20px;
+}
+.search1 {
+  width: 230px;
+  height: 60px;
+  border-radius: 10px;
+  background-color: #2b2b2b;
+  border: 1px solid black;
+}
+.image {
+  height: 40px;
+}
+input {
+  width: 315px;
+  height: 40px;
+  background-color: #2b2b2b;
+  border-radius: 15px;
+}
+::placeholder {
+  color: white;
+}
+:-ms-input-placeholder {
+  background-color: white;
+}
+.chat-box {
+  background-color: #1f1f1f;
+  height: 80vh;
+  border-radius: 20px;
+}
+.new{
+  background-color: #2b2b2b;
+}
+.search {
+  width: 230px;
+  height: 40px;
+  border-radius: 10px;
+  background-color: #2b2b2b;
+  border: 1px solid black;
+}
+.image1 {
+  height: 50px;
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
